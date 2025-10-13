@@ -13,7 +13,7 @@ This repository ships as a minimal Three.js experience that expects a modern bun
 
 ```bash
 # 1. Clone the repository
- git clone https://github.com/your-username/fireworks.git
+ git clone https://github.com/theaaravagarwal/fireworks.git
  cd fireworks
 
 # 2. Initialize npm and add the required tooling
